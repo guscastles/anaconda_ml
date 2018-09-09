@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.projectignore
+.spyproject/
+*/__pycache__/
+*.pyc
